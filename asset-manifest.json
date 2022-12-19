@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/react-in-github/static/css/main.073c9b0a.css",
-    "main.js": "/react-in-github/static/js/main.68b11cd5.js",
-    "static/js/787.b0f69047.chunk.js": "/react-in-github/static/js/787.b0f69047.chunk.js",
-    "static/media/logo.svg": "/react-in-github/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/react-in-github/static/css/main.85613826.css",
+    "main.js": "/react-in-github/static/js/main.3008fdf7.js",
     "index.html": "/react-in-github/index.html",
-    "main.073c9b0a.css.map": "/react-in-github/static/css/main.073c9b0a.css.map",
-    "main.68b11cd5.js.map": "/react-in-github/static/js/main.68b11cd5.js.map",
-    "787.b0f69047.chunk.js.map": "/react-in-github/static/js/787.b0f69047.chunk.js.map"
+    "main.85613826.css.map": "/react-in-github/static/css/main.85613826.css.map",
+    "main.3008fdf7.js.map": "/react-in-github/static/js/main.3008fdf7.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.68b11cd5.js"
+    "static/css/main.85613826.css",
+    "static/js/main.3008fdf7.js"
   ]
 }
