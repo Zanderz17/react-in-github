@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/react-in-github/static/css/main.733f6d2e.css",
-    "main.js": "/react-in-github/static/js/main.d9b0d65e.js",
+    "main.css": "/react-in-github/static/css/main.bed20a31.css",
+    "main.js": "/react-in-github/static/js/main.6a8b5be3.js",
     "static/media/pikachu.png": "/react-in-github/static/media/pikachu.f6e83cebb127c8e3ce6c.png",
     "index.html": "/react-in-github/index.html",
-    "main.733f6d2e.css.map": "/react-in-github/static/css/main.733f6d2e.css.map",
-    "main.d9b0d65e.js.map": "/react-in-github/static/js/main.d9b0d65e.js.map"
+    "main.bed20a31.css.map": "/react-in-github/static/css/main.bed20a31.css.map",
+    "main.6a8b5be3.js.map": "/react-in-github/static/js/main.6a8b5be3.js.map"
   },
   "entrypoints": [
-    "static/css/main.733f6d2e.css",
-    "static/js/main.d9b0d65e.js"
+    "static/css/main.bed20a31.css",
+    "static/js/main.6a8b5be3.js"
   ]
 }
